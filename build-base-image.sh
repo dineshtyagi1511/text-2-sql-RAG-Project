@@ -25,7 +25,7 @@ set -e  # Exit on error
 AWS_ACCOUNT_ID="872118048575"
 AWS_REGION="us-east-1"
 ECR_REGISTRY="${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com"
-ECR_REPOSITORY="lambda-python-deps"
+ECR_REPOSITORY="rag-text-to-sql"
 IMAGE_TAG="3.12"
 FULL_IMAGE_URI="${ECR_REGISTRY}/${ECR_REPOSITORY}:${IMAGE_TAG}"
 
