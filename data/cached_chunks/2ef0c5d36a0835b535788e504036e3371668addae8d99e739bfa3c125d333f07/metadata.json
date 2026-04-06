@@ -1,0 +1,11 @@
+{
+  "document_id": "2ef0c5d36a0835b535788e504036e3371668addae8d99e739bfa3c125d333f07",
+  "original_filename": "Dinesh_ai_ml.pdf",
+  "upload_timestamp": "2026-04-05T05:09:03.128913Z",
+  "file_size_bytes": 78532,
+  "chunk_count": 3,
+  "embedding_model": "text-embedding-3-small",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "file_extension": "pdf"
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Delhi - +91-9813745882\ndineshtyagi1511@gmail.com - LinkedIn - GitHub\n\nAspiring Machine Learning Engineer specializing in Generative AI and NLP , with hands-on experience building Retrieval-Augmented Generation (RAG) systems and scalable ML applications. Proficient in FastAPI, LangChain, vector databases (Qdrant), and OpenAI models , along with strong expertise in MLOps, CI/CD, Docker, and AWS deployment . Demonstrated ability to design and deploy end-to-end production-ready AI systems .\n\nProgramming:\nPython\nMachine Learning & Data Science: Scikit-learn,Feature Engineering, Model Evaluation, Statistical Analysis Generative AI & NLP:\nRetrieval-Augmented Generation (RAG), LangChain, Hugging Face Transformers, Text Sum- marization, Embeddings\nMLOps & Engineering: ML Pipelines, Experiment Tracking (Weights & Biases), Docker, CI/CD (GitHub Actions), YAML Configuration\nBackend & APIs: FastAPI, Flask, RESTful APIs, Swagger/OpenAPI\nVector Databases:\nQdrant\nCloud & DevOps:\nAWS (EC2, ECR, App Runner), Git, GitHub, Linux\n\n[GitHub](https://github.com/dineshtyagi1511/rag-qa-project)\n- Built a production-ready Retrieval-Augmented Generation (RAG) system using FastAPI, OpenAI (GPT5), and LangChain .\n- Implemented document ingestion pipeline using PyPDF2 , with chunking and embedding storage in Qdrant vector database .\n- Designed RESTful APIs for document upload and question answering with Swagger documentation.\n- Deployed scalable backend service on AWS App Runner .\n- Containerized application using Docker and automated deployment with GitHub Actions (CI/CD) .",
+    "chunk_index": 0,
+    "token_count": 365,
+    "start_char": 0,
+    "end_char": 1570,
+    "headings": [],
+    "page_numbers": [],
+    "doc_items": [
+      "self_ref='#/texts/1' parent=RefItem(cref='#/groups/0') children=[] content_layer=<ContentLayer.BODY:",
+      "self_ref='#/texts/2' parent=RefItem(cref='#/groups/0') children=[] content_layer=<ContentLayer.BODY:"
+    ],
+    "captions": []
+  },
+  {
+    "text": "[GitHub](https://github.com/dineshtyagi1511/text-summarizer)\n- Fine-tuned google/flan-t5-base on SAMSumdataset using Hugging Face Transformers (Seq2SeqTrainer) .\n- Implemented experiment tracking and inference logging using Weights & Biases (W&B Weave) .\n- Built FastAPI inference service for real-time text summarization with optimized model loading pipeline.\n- Containerized application using Docker (linux/amd64) and deployed on AWS App Runner via ECR .\n- Designed automated CI/CD pipeline with GitHub Actions for testing, building, and deployment.\n\n- Designed an end-to-end ML system following an Experiment \u2192 Production workflow.\n- Developed RESTful APIs using Flask for real-time predictions.\n- Built multi-stage pipeline including data ingestion, validation, transformation, training, and evaluation.\n- Containerized with Docker and deployed on AWS (EC2, ECR) with CI/CD via GitHub Actions.\n\nKurukshetra University - Master of Science (M.Sc.) in Statistics\nAug 2024 - May 2026\nRelevant Coursework: Time-Series Forecasting, Probability, Statistical Inference\nDeenbandhu Chhotu Ram University of Science and Technology, Murthal (Haryana) - Bachelor of Science (B.Sc.) in Mathematics Aug 2020 - Jun 2023\nRelevant Coursework: Probability, Database Management Systems (DBMS), Linear Algebra, Calculus",
+    "chunk_index": 1,
+    "token_count": 296,
+    "start_char": 1570,
+    "end_char": 2872,
+    "headings": [],
+    "page_numbers": [],
+    "doc_items": [
+      "self_ref='#/texts/25' parent=RefItem(cref='#/body') children=[] content_layer=<ContentLayer.BODY: 'b",
+      "self_ref='#/texts/26' parent=RefItem(cref='#/groups/3') children=[] content_layer=<ContentLayer.BODY",
+      "self_ref='#/texts/27' parent=RefItem(cref='#/groups/3') children=[] content_layer=<ContentLayer.BODY"
+    ],
+    "captions": []
+  },
+  {
+    "text": "Jun 2025 - Jul 2025\n- Analyzed structured datasets using Python (Pandas, NumPy) and SQL to extract actionable insights.\n- Wrote optimized SQL queries for data extraction, transformation, and reporting.\n- Performed data cleaning, preprocessing, and exploratory data analysis (EDA) to improve data quality and usability.\n- Collaborated with team members to support data-driven decision-making and business insights.\n[GitHub](https://github.com/dineshtyagi1511/Drinks-Quality-Prediction-System-aws)",
+    "chunk_index": 2,
+    "token_count": 112,
+    "start_char": 2872,
+    "end_char": 3367,
+    "headings": [],
+    "page_numbers": [],
+    "doc_items": [
+      "self_ref='#/texts/44' parent=RefItem(cref='#/body') children=[] content_layer=<ContentLayer.BODY: 'b",
+      "self_ref='#/texts/45' parent=RefItem(cref='#/groups/6') children=[] content_layer=<ContentLayer.BODY",
+      "self_ref='#/texts/46' parent=RefItem(cref='#/groups/6') children=[] content_layer=<ContentLayer.BODY"
+    ],
+    "captions": []
+  }
+]
